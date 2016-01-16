@@ -9,3 +9,5 @@ The personality traits of the positive and negative users can be compared on a c
     Follow the directions in the related IBM developerWorks article to download, install and configure the necessary dependencies.
     Follow the steps and deploy the application to BlueMix.
     The app uses the following services: IBM Insights for Twitter, Language Translation and Personality Insights
+
+The app video is available at: https://github.com/vmathur87/insights-twitter/files/92842/app_demo.zip
